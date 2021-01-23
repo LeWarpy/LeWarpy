@@ -1,1 +1,1 @@
-![Metrics](https://github.com/LeWarpy/LeWarpy/blob/master/github-metrics.svg)
+![Metrics](https://github.com/LeWarpy/LeWarpy/blob/main/github-metrics.svg)
