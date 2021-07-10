@@ -1384,7 +1384,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>715209/nginx-obs-automatic-low-bitrate-switching</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -1541,7 +1541,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated Sat, 10 Jul 2021 14:28:34 (timezone Europe/Paris) with lowlighter/metrics@3.10.0</span>
+                <span>Last updated Sat, 10 Jul 2021 15:22:34 (timezone Europe/Paris) with lowlighter/metrics@3.10.0</span>
             </footer>
             <div id="metrics-end"></div>
         </div>
