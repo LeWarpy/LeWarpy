@@ -1355,7 +1355,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ThePooN/rtmp-fallback</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -1396,7 +1396,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Hakkin/streamRIP</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -1514,7 +1514,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated Mon, 19 Jul 2021 20:24:23 (timezone Europe/Paris) with lowlighter/metrics@3.10.0</span>
+                <span>Last updated Mon, 19 Jul 2021 21:16:29 (timezone Europe/Paris) with lowlighter/metrics@3.10.0</span>
             </footer>
             <div id="metrics-end"></div>
         </div>
