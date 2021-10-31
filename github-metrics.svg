@@ -1533,7 +1533,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>bottlerocket-os/bottlerocket</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -1703,7 +1703,7 @@
                         </div>
                         <footer>
                             <span>These metrics do not include all private contributions</span>
-                            <span>Last updated 31 Oct 2021, 14:21:19 (timezone Europe/Paris) with lowlighter/metrics@3.15.0</span>
+                            <span>Last updated 31 Oct 2021, 15:15:43 (timezone Europe/Paris) with lowlighter/metrics@3.15.0</span>
                         </footer>
                     </section>
                     <div id="metrics-end"></div>
