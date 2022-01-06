@@ -263,7 +263,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Ardakilic/backmeup</span>
-                                        <span>starred 17 hours ago</span>
+                                        <span>starred 18 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">BackMeUp: An automated MySQL / MariaDB databases and files backup solution on *nix Machines using Amazon S3, WebDAV (ownCloud / NextCloud etc.), Google Drive and Dropbox.</div>
@@ -316,7 +316,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>drakkan/sftpgo</span>
-                                        <span>starred 17 hours ago</span>
+                                        <span>starred 18 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Fully featured and highly configurable SFTP server with optional HTTP, FTP/S and WebDAV support - S3, Google Cloud Storage, Azure Blob</div>
@@ -466,7 +466,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 6 Jan 2022, 03:41:28 (timezone Europe/Paris) with lowlighter/metrics@3.17.0</span>
+                <span>Last updated 6 Jan 2022, 04:21:17 (timezone Europe/Paris) with lowlighter/metrics@3.17.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
