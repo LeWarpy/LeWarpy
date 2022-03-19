@@ -370,7 +370,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>EpiLink/EpiLink</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Authenticate people on your Discord servers and give them roles automatically. All-in-one server back-end, Discord bot and front-end. Works with Google, Microsoft and any OpenID Connect provider.</div>
@@ -423,7 +423,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>bunkerity/bunkerized-nginx</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🛡️ Make your web services secure by default !</div>
@@ -473,7 +473,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 19 Mar 2022, 23:17:18 (timezone Europe/Paris) with lowlighter/metrics@3.21.0</span>
+                <span>Last updated 20 Mar 2022, 00:17:54 (timezone Europe/Paris) with lowlighter/metrics@3.21.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
