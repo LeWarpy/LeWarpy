@@ -264,7 +264,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>GooseMod/OpenAsar</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Open-source alternative of Discord desktop's app.asar</div>
@@ -423,7 +423,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jiixyj/libebur128</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A library implementing the EBU R128 loudness standard.</div>
@@ -473,7 +473,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 3 May 2022, 13:18:31 (timezone Europe/Paris) with lowlighter/metrics@3.23.0</span>
+                <span>Last updated 3 May 2022, 14:40:37 (timezone Europe/Paris) with lowlighter/metrics@3.23.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
