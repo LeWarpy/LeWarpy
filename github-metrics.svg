@@ -264,7 +264,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Yooooomi/your_spotify</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Self hosted Spotify tracking dashboard</div>
@@ -317,7 +317,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>lancachenet/generic</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Generic LAN Download Content Cache</div>
@@ -370,7 +370,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Finesse/web-fonts-repository</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A simple webfont hosting. Google Fonts alternative for your own fonts.</div>
@@ -423,7 +423,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>shroudedcode/apk-mitm</span>
-                                        <span>starred 16 hours ago</span>
+                                        <span>starred 17 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🤖 A CLI application that automatically prepares Android APK files for HTTPS inspection</div>
@@ -473,7 +473,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 19 May 2022, 12:23:29 (timezone Europe/Paris) with lowlighter/metrics@3.23.0</span>
+                <span>Last updated 19 May 2022, 13:17:18 (timezone Europe/Paris) with lowlighter/metrics@3.23.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
