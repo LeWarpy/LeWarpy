@@ -293,7 +293,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>patrickfav/uber-apk-signer</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A cli tool that helps signing and zip aligning single or multiple Android application packages (APKs) with either debug or provided release certificates. It supports v1, v2 and v3 Android signing scheme has an embedded debug keystore and auto verifies after signing.</div>
@@ -346,7 +346,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>CobbleSword/BurritoSpigot</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">BurritoSpigot is a fork of TacoSpigot 1.8.9 that offers several enhancements to performance as well as bug fixes. while offer extra APIs and support for plugins</div>
@@ -399,7 +399,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mrpond/BlockTheSpot</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Video, audio &amp; banner adblock/skip for Spotify</div>
@@ -502,7 +502,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 18 Jun 2022, 21:15:27 (timezone Europe/Paris) with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 18 Jun 2022, 22:19:04 (timezone Europe/Paris) with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
