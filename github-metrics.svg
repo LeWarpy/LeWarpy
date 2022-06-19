@@ -264,7 +264,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>lazerdx/OBStron</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A web application for remote controlling a OBS desktrop environment over network.</div>
@@ -311,7 +311,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>patrickfav/uber-apk-signer</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A cli tool that helps signing and zip aligning single or multiple Android application packages (APKs) with either debug or provided release certificates. It supports v1, v2 and v3 Android signing scheme has an embedded debug keystore and auto verifies after signing.</div>
@@ -467,7 +467,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 19 Jun 2022, 08:22:29 (timezone Europe/Paris) with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 19 Jun 2022, 09:16:53 (timezone Europe/Paris) with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
