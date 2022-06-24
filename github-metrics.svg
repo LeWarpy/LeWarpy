@@ -264,7 +264,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>iptv-org/iptv</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Collection of publicly available IPTV channels from all over the world</div>
@@ -461,7 +461,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 24 Jun 2022, 10:25:37 (timezone Europe/Paris) with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 24 Jun 2022, 11:18:41 (timezone Europe/Paris) with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
