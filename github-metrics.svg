@@ -224,10 +224,10 @@
                 <div class="row fill-width">
                     <section class="categories">
                         <div class="category column">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge average">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge high">
                                 <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="279.65 329"/>
-                                <text x="60" y="60" dominant-baseline="central">85</text>
+                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="312.55 329"/>
+                                <text x="60" y="60" dominant-baseline="central">95</text>
                             </svg>
                             <span class="title">Performance</span>
                         </div>
@@ -293,7 +293,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>m3n0sd0n4ld/GooFuzz</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">GooFuzz is a tool to perform fuzzing with an OSINT approach, managing to enumerate directories, files, subdomains or parameters without leaving evidence on the target's server and by means of advanced Google searches (Google Dorking).</div>
@@ -447,7 +447,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>strapi/strapi</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🚀 Open source Node.js Headless CMS to easily build customisable APIs</div>
@@ -497,7 +497,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 13 Jul 2022, 16:19:26 (timezone Europe/Paris) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 13 Jul 2022, 17:26:16 (timezone Europe/Paris) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
