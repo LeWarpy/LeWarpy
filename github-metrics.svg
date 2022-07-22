@@ -423,7 +423,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>m3n0sd0n4ld/GooFuzz</span>
-                                        <span>starred 10 days ago</span>
+                                        <span>starred 11 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">GooFuzz is a tool to perform fuzzing with an OSINT approach, managing to enumerate directories, files, subdomains or parameters without leaving evidence on the target's server and by means of advanced Google searches (Google Dorking).</div>
@@ -473,7 +473,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 22 Jul 2022, 16:20:24 (timezone Europe/Paris) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 22 Jul 2022, 17:21:35 (timezone Europe/Paris) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
