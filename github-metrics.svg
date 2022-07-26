@@ -264,7 +264,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>PaperMC/Starlight</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Rewrites the light engine to fix lighting performance and lighting errors</div>
@@ -423,7 +423,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>amirgamil/zk-crush</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Tell your crush you like them with zero-knowledge</div>
@@ -473,7 +473,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 26 Jul 2022, 23:16:59 (timezone Europe/Paris) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 27 Jul 2022, 00:20:42 (timezone Europe/Paris) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
