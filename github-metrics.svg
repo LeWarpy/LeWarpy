@@ -264,7 +264,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>PaperMC/Starlight</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Rewrites the light engine to fix lighting performance and lighting errors</div>
@@ -370,7 +370,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Pryaxis/TShock</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">☕️⚡️TShock provides Terraria servers with server-side characters, anti-cheat, and community management tools.</div>
@@ -473,7 +473,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 27 Jul 2022, 00:20:42 (timezone Europe/Paris) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 27 Jul 2022, 01:18:40 (timezone Europe/Paris) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
