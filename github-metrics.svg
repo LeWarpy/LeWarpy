@@ -264,7 +264,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jgmdev/ddos-deflate</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Fork of DDoS Deflate with fixes, improvements and new features.</div>
@@ -423,7 +423,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>smallstep/certificates</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🛡️ A private certificate authority (X.509 &amp; SSH) &amp; ACME server for secure automated certificate management, so you can use TLS everywhere &amp; SSO for SSH.</div>
@@ -473,7 +473,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 20 Aug 2022, 12:20:43 (timezone Europe/Paris) with lowlighter/metrics@3.27.0</span>
+                <span>Last updated 20 Aug 2022, 13:16:38 (timezone Europe/Paris) with lowlighter/metrics@3.27.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
