@@ -264,7 +264,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>buptczq/WinCryptSSHAgent</span>
-                                        <span>starred 15 hours ago</span>
+                                        <span>starred 16 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Using a Yubikey for SSH Authentication on Windows Seamlessly</div>
@@ -317,7 +317,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>FiloSottile/yubikey-agent</span>
-                                        <span>starred 15 hours ago</span>
+                                        <span>starred 16 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">yubikey-agent is a seamless ssh-agent for YubiKeys.</div>
@@ -473,7 +473,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 3 Sept 2022, 00:20:24 (timezone Europe/Paris) with lowlighter/metrics@3.27.0</span>
+                <span>Last updated 3 Sept 2022, 01:20:23 (timezone Europe/Paris) with lowlighter/metrics@3.27.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
