@@ -293,7 +293,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Evil-Twins-X/SubEvil</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 16 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">SubEvil is an advanced open source intelligence framework (OSINT) for grouping subdomains.</div>
@@ -340,7 +340,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>imgproxy/imgproxy</span>
-                                        <span>starred 16 hours ago</span>
+                                        <span>starred 18 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Fast and secure standalone server for resizing and converting remote images</div>
@@ -496,7 +496,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 7 Sept 2022, 04:13:02 (timezone Europe/Paris) with lowlighter/metrics@3.27.0</span>
+                <span>Last updated 7 Sept 2022, 06:57:16 (timezone Europe/Paris) with lowlighter/metrics@3.27.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
