@@ -317,7 +317,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>etil2jz/Sakura</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Minecraft 1.18.2 Backport of Petal, a performance-oriented fork of Purpur intended to increase performance for entity-heavy servers by implementing multi-threaded and asynchronous improvements.</div>
@@ -461,7 +461,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 23 Sept 2022, 21:19:57 (timezone Europe/Paris) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 23 Sept 2022, 22:23:38 (timezone Europe/Paris) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
