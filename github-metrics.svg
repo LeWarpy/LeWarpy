@@ -293,7 +293,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>phybros/servertap</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">ServerTap is a REST API for Bukkit/Spigot/Paper Minecraft servers</div>
@@ -346,7 +346,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>kennytv/Maintenance</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Enable maintenance mode on your Minecraft server</div>
@@ -399,7 +399,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>JLyne/LiveAtlas</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A Dynmap, Squaremap, Pl3xmap and Overviewer frontend for the modern web</div>
@@ -452,7 +452,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>brucethemoose/Minecraft-Performance-Flags-Benchmarks</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Sane, Benchmarked Java Flags and Tweaks for Minecraft</div>
@@ -502,7 +502,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 14 Feb 2023, 22:15:34 (timezone Europe/Paris) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 14 Feb 2023, 23:16:37 (timezone Europe/Paris) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
