@@ -293,7 +293,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>prettier/prettier</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Prettier is an opinionated code formatter.</div>
@@ -346,7 +346,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>hotwired/turbo</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The speed of a single-page web application without having to write any JavaScript</div>
@@ -399,7 +399,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>neondatabase/neon</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, branching, and bottomless storage.</div>
@@ -452,7 +452,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>rabbitmq/rabbitmq-server</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Open source RabbitMQ: core server and tier 1 (built-in) plugins</div>
@@ -502,7 +502,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 12 Mar 2023, 18:14:16 (timezone Europe/Paris) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 12 Mar 2023, 19:19:18 (timezone Europe/Paris) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
