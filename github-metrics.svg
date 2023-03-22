@@ -264,7 +264,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ps2dev/ps2sdk</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Homebrew PS2 SDK</div>
@@ -317,7 +317,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>x3388638/react-grid-carousel</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">React responsive carousel component w/ grid layout</div>
@@ -370,7 +370,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>featbit/featbit</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A scalable, fast and 100% open-source feature flag &amp; experimentation management platform</div>
@@ -423,7 +423,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>smallnest/1m-go-tcp-server</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">benchmarks for implementation of servers which support 1 million connections</div>
@@ -467,7 +467,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 22 Mar 2023, 16:17:38 (timezone Europe/Paris) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 22 Mar 2023, 17:21:54 (timezone Europe/Paris) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
