@@ -226,8 +226,8 @@
                         <div class="category column">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge average">
                                 <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="246.75 329"/>
-                                <text x="60" y="60" dominant-baseline="central">75</text>
+                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="259.91 329"/>
+                                <text x="60" y="60" dominant-baseline="central">79</text>
                             </svg>
                             <span class="title">Performance</span>
                         </div>
@@ -293,7 +293,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>AkashSingh3031/The-Complete-FAANG-Preparation</span>
-                                        <span>starred 15 hours ago</span>
+                                        <span>starred 16 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Love Babbar Bhaiya, FAANG Questions), Technical Subjects (OS + DBMS + SQL + CN + OOPs) Theory+Questions, FAANG Interview questions, and Miscellaneous Stuff (Programming MCQs, Puzzles, Aptitude, Reasoning). The Programming languages used for demonstration are C++, Python, and Java.</div>
@@ -346,7 +346,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>QuiltServerTools/Ledger-Databases</span>
-                                        <span>starred 17 hours ago</span>
+                                        <span>starred 18 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Adds support for MySQL and H2 databases to Ledger</div>
@@ -399,7 +399,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>QuiltServerTools/Ledger</span>
-                                        <span>starred 17 hours ago</span>
+                                        <span>starred 18 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A server-side logging mod for fabric 1.17+</div>
@@ -452,7 +452,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>nalo26/Minecraft-Heatmap</span>
-                                        <span>starred 17 hours ago</span>
+                                        <span>starred 18 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Create a heatmap of your server based on ledger logs</div>
@@ -502,7 +502,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 10 Apr 2023, 08:19:57 (timezone Europe/Paris) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 10 Apr 2023, 09:13:59 (timezone Europe/Paris) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
