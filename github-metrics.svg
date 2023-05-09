@@ -293,7 +293,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>bbc/bug</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Started life at BBC News - BUG enables control and monitoring of broadcast kit from a single web interface.</div>
@@ -346,7 +346,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>keylase/nvidia-patch</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">This patch removes restriction on maximum number of simultaneous NVENC video encoding sessions imposed by Nvidia to consumer-grade GPUs.</div>
@@ -393,7 +393,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>JHRobotics/softgpu</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">SW and HW accelerated GPU driver for Windows 9x Virtual Machines</div>
@@ -446,7 +446,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>SubtitleEdit/subtitleedit</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">the subtitle editor :)</div>
@@ -480,7 +480,7 @@
                                             <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                             <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                         </svg>
-                                        3.54k
+                                        3.55k
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -496,7 +496,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 9 May 2023, 21:12:17 (timezone Europe/Paris) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 9 May 2023, 22:15:44 (timezone Europe/Paris) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
