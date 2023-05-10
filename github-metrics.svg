@@ -293,7 +293,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>bbc/bug</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Started life at BBC News - BUG enables control and monitoring of broadcast kit from a single web interface.</div>
@@ -346,7 +346,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>keylase/nvidia-patch</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">This patch removes restriction on maximum number of simultaneous NVENC video encoding sessions imposed by Nvidia to consumer-grade GPUs.</div>
@@ -393,7 +393,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>JHRobotics/softgpu</span>
-                                        <span>starred 15 hours ago</span>
+                                        <span>starred 17 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">SW and HW accelerated GPU driver for Windows 9x Virtual Machines</div>
@@ -446,7 +446,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>SubtitleEdit/subtitleedit</span>
-                                        <span>starred 17 hours ago</span>
+                                        <span>starred 19 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">the subtitle editor :)</div>
@@ -496,7 +496,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 10 May 2023, 03:14:12 (timezone Europe/Paris) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 10 May 2023, 04:31:24 (timezone Europe/Paris) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
