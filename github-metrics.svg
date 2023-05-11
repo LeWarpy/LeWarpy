@@ -275,7 +275,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>gitleaks/gitleaks</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Protect and discover secrets using Gitleaks 🔑</div>
@@ -328,7 +328,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>aquasecurity/trivy</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more</div>
@@ -381,7 +381,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>projectdiscovery/subfinder</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Fast passive subdomain enumeration tool.</div>
@@ -434,7 +434,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>cilium/cilium</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">eBPF-based Networking, Security, and Observability</div>
@@ -484,7 +484,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 12 May 2023, 00:13:53 (timezone Europe/Paris) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 12 May 2023, 01:15:51 (timezone Europe/Paris) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
