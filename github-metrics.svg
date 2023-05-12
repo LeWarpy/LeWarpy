@@ -226,8 +226,8 @@
                         <div class="category column">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge average">
                                 <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="236.88 329"/>
-                                <text x="60" y="60" dominant-baseline="central">72</text>
+                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="266.49 329"/>
+                                <text x="60" y="60" dominant-baseline="central">81</text>
                             </svg>
                             <span class="title">Performance</span>
                         </div>
@@ -275,7 +275,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>gitleaks/gitleaks</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Protect and discover secrets using Gitleaks 🔑</div>
@@ -328,7 +328,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>aquasecurity/trivy</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more</div>
@@ -381,7 +381,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>projectdiscovery/subfinder</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Fast passive subdomain enumeration tool.</div>
@@ -434,7 +434,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>cilium/cilium</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">eBPF-based Networking, Security, and Observability</div>
@@ -484,7 +484,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 12 May 2023, 10:18:41 (timezone Europe/Paris) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 12 May 2023, 11:14:45 (timezone Europe/Paris) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
