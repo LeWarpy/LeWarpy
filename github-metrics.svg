@@ -275,7 +275,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>thephpleague/oauth2-server-bundle</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Symfony bundle for the OAuth2 Server.</div>
@@ -328,7 +328,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>bigcapitalhq/bigcapital</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">💵 Bigcapital is intelligent cloud and open-source accounting software for small and medium businesses.</div>
@@ -484,7 +484,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 5 Jul 2023, 12:19:26 (timezone Europe/Paris) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 5 Jul 2023, 13:14:46 (timezone Europe/Paris) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
