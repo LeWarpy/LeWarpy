@@ -226,8 +226,8 @@
                         <div class="category column">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge high">
                                 <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="315.84 329"/>
-                                <text x="60" y="60" dominant-baseline="central">96</text>
+                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="305.97 329"/>
+                                <text x="60" y="60" dominant-baseline="central">93</text>
                             </svg>
                             <span class="title">Performance</span>
                         </div>
@@ -275,7 +275,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>wanjohiryan/Arc3dia</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Game with Friends, Anywhere, Anytime; instantly from your browser</div>
@@ -328,7 +328,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>storybookjs/storybook</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation.</div>
@@ -484,7 +484,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 14 Jul 2023, 10:20:56 (timezone Europe/Paris) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 14 Jul 2023, 11:16:44 (timezone Europe/Paris) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
