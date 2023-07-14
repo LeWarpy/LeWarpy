@@ -275,7 +275,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>projectdiscovery/proxify</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A versatile and portable proxy for capturing, manipulating, and replaying HTTP/HTTPS traffic on the go.</div>
@@ -328,7 +328,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>paypal/junodb</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">JunoDB is PayPal's home-grown secure, consistent and highly available key-value store providing low, single digit millisecond, latency at any scale.</div>
@@ -434,7 +434,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>storybookjs/storybook</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation.</div>
@@ -484,7 +484,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 14 Jul 2023, 18:20:52 (timezone Europe/Paris) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 14 Jul 2023, 19:13:50 (timezone Europe/Paris) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
