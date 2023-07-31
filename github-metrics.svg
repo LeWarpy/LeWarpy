@@ -226,8 +226,8 @@
                         <div class="category column">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge high">
                                 <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="309.26 329"/>
-                                <text x="60" y="60" dominant-baseline="central">94</text>
+                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="312.55 329"/>
+                                <text x="60" y="60" dominant-baseline="central">95</text>
                             </svg>
                             <span class="title">Performance</span>
                         </div>
@@ -275,7 +275,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>suntorytimed/resourcespace</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Docker image for ResourceSpace based on ubuntu:latest including openCV, poppler, php8.1 and php-mysqlnd</div>
@@ -328,7 +328,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>TykTechnologies/tyk</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Tyk Open Source API Gateway written in Go, supporting REST, GraphQL, TCP and gRPC protocols</div>
@@ -381,7 +381,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Flagsmith/flagsmith</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Open Source Feature Flagging and Remote Config Service. Host on-prem or use our hosted version at https://flagsmith.com/</div>
@@ -434,7 +434,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>domainmod/domainmod</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">DomainMOD is an open source application written in PHP &amp; MySQL used to manage your domains and other internet assets in a central location. DomainMOD also includes a Data Warehouse framework that allows you to import your web server data so that you can view, export, and report on your live data.</div>
@@ -484,7 +484,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 1 Aug 2023, 00:14:00 (timezone Europe/Paris) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 1 Aug 2023, 01:14:35 (timezone Europe/Paris) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
