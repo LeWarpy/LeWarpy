@@ -275,7 +275,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>networktocode/awesome-network-automation</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Curated Awesome list about Network Automation</div>
@@ -322,7 +322,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>lae/ansible-role-netbox</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Cross-platform Ansible role for deploying NetBox, a DCIM/IPAM tool, in a production environment.</div>
@@ -428,7 +428,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>tryashtar/nbt-studio</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An up-to-date NBT viewer and editor with lots of new features</div>
@@ -472,7 +472,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 12 Aug 2023, 20:16:13 (timezone Europe/Paris) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 12 Aug 2023, 21:10:46 (timezone Europe/Paris) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
