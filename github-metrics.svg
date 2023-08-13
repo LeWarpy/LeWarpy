@@ -224,10 +224,10 @@
                 <div class="row fill-width">
                     <section class="categories">
                         <div class="category column">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge high">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge average">
                                 <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="315.84 329"/>
-                                <text x="60" y="60" dominant-baseline="central">96</text>
+                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="269.78 329"/>
+                                <text x="60" y="60" dominant-baseline="central">82</text>
                             </svg>
                             <span class="title">Performance</span>
                         </div>
@@ -322,7 +322,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>networktocode/awesome-network-automation</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Curated Awesome list about Network Automation</div>
@@ -369,7 +369,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>lae/ansible-role-netbox</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Cross-platform Ansible role for deploying NetBox, a DCIM/IPAM tool, in a production environment.</div>
@@ -472,7 +472,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 13 Aug 2023, 10:16:18 (timezone Europe/Paris) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 13 Aug 2023, 11:12:49 (timezone Europe/Paris) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
