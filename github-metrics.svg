@@ -275,7 +275,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>gitify-app/gitify</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux.</div>
@@ -328,7 +328,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>withastro/starlight</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🌟 Build beautiful, accessible, high-performance documentation websites with Astro</div>
@@ -381,7 +381,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>datacharmer/dbdeployer</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">DBdeployer is a tool that deploys MySQL database servers easily.</div>
@@ -434,7 +434,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>openark/orchestrator</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">MySQL replication topology management and HA</div>
@@ -484,7 +484,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 17 Aug 2023, 00:13:37 (timezone Europe/Paris) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 17 Aug 2023, 01:13:54 (timezone Europe/Paris) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
