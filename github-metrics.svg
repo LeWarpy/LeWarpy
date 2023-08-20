@@ -275,7 +275,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>phalcon/cphalcon</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">High performance, full-stack PHP framework delivered as a C extension.</div>
@@ -328,7 +328,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>bacher09/pwgen-for-bios</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Password generator for BIOS</div>
@@ -434,7 +434,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>gitify-app/gitify</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux.</div>
@@ -484,7 +484,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 20 Aug 2023, 14:24:30 (timezone Europe/Paris) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 20 Aug 2023, 15:14:49 (timezone Europe/Paris) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
