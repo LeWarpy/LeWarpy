@@ -275,7 +275,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>NLnetLabs/krill</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">RPKI Certificate Authority and Publication Server written in Rust</div>
@@ -328,7 +328,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>blend-os/blendOS</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A seamless blend of all Linux distributions.</div>
@@ -375,7 +375,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>PatinaMC/Patina</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A distribution of performance-oriented Minecraft Server patches based on PaperMC.</div>
@@ -472,7 +472,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 1 Sept 2023, 00:13:33 (timezone Europe/Paris) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 1 Sept 2023, 01:14:52 (timezone Europe/Paris) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
