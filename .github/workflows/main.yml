@@ -26,5 +26,6 @@ jobs:
           plugin_pagespeed: yes
           plugin_stars: yes
           plugin_stars_limit: 4
-          plugin_tweets: no
-          plugin_tweets_limit: 2
+          plugin_topics: yes
+          plugin_topics_mode: labels
+          plugin_languages: yes
