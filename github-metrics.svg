@@ -367,7 +367,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>opentofu/opentofu</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">OpenTofu lets you declaratively manage your cloud infrastructure.</div>
@@ -420,7 +420,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ibis-project/ibis</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The flexibility of Python with the scale and performance of modern SQL.</div>
@@ -526,7 +526,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>gen2brain/beeep</span>
-                                        <span>starred 5 days ago</span>
+                                        <span>starred 6 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Go cross-platform library for sending desktop notifications, alerts and beeps</div>
@@ -576,7 +576,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 30 Sept 2023, 16:12:11 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 30 Sept 2023, 17:13:19 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
