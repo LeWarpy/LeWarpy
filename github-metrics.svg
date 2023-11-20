@@ -367,7 +367,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>LeavesMC/Leaves</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Fork of Paper aimed at repairing broken vanilla properties.</div>
@@ -420,7 +420,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>OpticFusion1/Kitsune</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A program to help with reverse engineering java, vbs, batch, and html files</div>
@@ -473,7 +473,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>EntireTwix/CCash</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">an external ledger for in-game economies, running on a webserver with a RESTful API, exceptionally fast and lightweight written in C++</div>
@@ -576,7 +576,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 20 Nov 2023, 20:12:44 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 20 Nov 2023, 21:16:43 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
