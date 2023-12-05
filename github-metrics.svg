@@ -367,7 +367,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>bs-community/skinview3d</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Three.js powered Minecraft skin viewer.</div>
@@ -420,7 +420,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ContainerSolutions/kubernetes-examples</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Minimal self-contained examples of standard Kubernetes features and patterns in YAML</div>
@@ -473,7 +473,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Paymenter/Paymenter</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Free and open-source webshop alternative for hostings</div>
@@ -564,7 +564,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 5 Dec 2023, 20:11:24 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 5 Dec 2023, 21:16:54 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
