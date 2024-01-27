@@ -391,7 +391,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>warp-tech/warpgate</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Smart SSH, HTTPS and MySQL bastion that needs no client-side software</div>
@@ -547,7 +547,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 27 Jan 2024, 12:11:25 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 27 Jan 2024, 13:24:08 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
