@@ -367,7 +367,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>7zx/FuckCensys</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Script to block all traffic from the Censys IP's and subnets.</div>
@@ -414,7 +414,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>macimas-fonts/macsMinecraft</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">a rough 1:1 recreation of Minecraft font</div>
@@ -448,7 +448,7 @@
                                             <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                             <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                         </svg>
-                                        3
+                                        4
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -467,7 +467,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>hilltty/hilltty-flags</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Maximum Performance Launch Flags for Minecraft Server</div>
@@ -508,7 +508,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>setupmd/docs</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The handbook for Minecraft server administration.</div>
@@ -558,7 +558,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 8 Apr 2024, 19:15:18 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 8 Apr 2024, 20:21:24 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
