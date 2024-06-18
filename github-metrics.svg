@@ -367,7 +367,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>omriharel/deej</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Set app volumes with real sliders! deej is an Arduino &amp; Go project to let you build your own hardware mixer for Windows and Linux</div>
@@ -526,7 +526,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ANSSI-FR/ADTimeline</span>
-                                        <span>starred 10 days ago</span>
+                                        <span>starred 11 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Timeline of Active Directory changes with replication metadata</div>
@@ -576,7 +576,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 18 Jun 2024, 10:21:54 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 18 Jun 2024, 11:18:20 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
