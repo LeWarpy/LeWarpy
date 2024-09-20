@@ -367,7 +367,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>open5gs/open5gs</span>
-                                        <span>starred 18 hours ago</span>
+                                        <span>starred 19 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Open5GS is a C-language Open Source implementation for 5G Core and EPC, i.e. the core network of LTE/NR network (Release-17)</div>
@@ -529,7 +529,7 @@
                                         <span>starred 11 days ago</span>
                                     </div>
                                 </div>
-                                <div class="field description">Open source AI code editor. To download the packaged app:</div>
+                                <div class="field description">Chat first code editor. To download the packaged app:</div>
                                 <div class="field infos">
                                     <div class="language">
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -576,7 +576,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 20 Sept 2024, 04:26:11 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 20 Sept 2024, 05:07:39 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
