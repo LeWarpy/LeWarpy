@@ -301,8 +301,8 @@
                         <div class="category column">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge average">
                                 <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="250.04 329"/>
-                                <text x="60" y="60" dominant-baseline="central">76</text>
+                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="253.33 329"/>
+                                <text x="60" y="60" dominant-baseline="central">77</text>
                             </svg>
                             <span class="title">Performance</span>
                         </div>
@@ -367,7 +367,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>SigNoz/signoz</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open source Application Performance Monitoring (APM) &amp; Observability tool</div>
@@ -420,7 +420,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>drawdb-io/drawdb</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Free, simple, and intuitive online database diagram editor and SQL generator.</div>
@@ -473,7 +473,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>pric/pric</span>
-                                        <span>starred 15 hours ago</span>
+                                        <span>starred 16 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Simple zero-config tool to create Private Certificate Authority &amp; issue locally-trusted development server certificates with any domain names you'd like. SSL certificates for development purposes.</div>
@@ -577,7 +577,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 22 Sept 2024, 03:32:51 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 22 Sept 2024, 04:29:42 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
