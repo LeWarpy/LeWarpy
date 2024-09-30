@@ -367,7 +367,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>th-ch/youtube-music</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader)</div>
@@ -420,7 +420,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>standard/standard</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🌟 JavaScript Style Guide, with linter &amp; automatic code fixer</div>
@@ -473,7 +473,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>projectsend/projectsend</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">ProjectSend is a free, open source software that lets you share files with your clients, focused on ease of use and privacy. It supports clients groups, system users roles, statistics, multiple languages, detailed logs... and much more!</div>
@@ -576,7 +576,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 30 Sept 2024, 19:05:25 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 30 Sept 2024, 20:06:55 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
