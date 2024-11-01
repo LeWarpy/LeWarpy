@@ -473,7 +473,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>timvisee/lazymc</span>
-                                        <span>starred 14 days ago</span>
+                                        <span>starred 15 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">💤 Put your Minecraft server to rest when idle.</div>
@@ -526,7 +526,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>chunky-dev/chunky</span>
-                                        <span>starred 14 days ago</span>
+                                        <span>starred 15 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A path tracer to create realistic images of your Minecraft worlds.</div>
@@ -576,7 +576,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 1 Nov 2024, 22:05:22 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 1 Nov 2024, 23:05:26 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
