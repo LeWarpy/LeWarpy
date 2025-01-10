@@ -367,7 +367,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>gnmyt/myspeed</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A speed test analysis software that shows your internet speed for up to 30 days</div>
@@ -420,7 +420,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>kahing/goofys</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">a high-performance, POSIX-ish Amazon S3 file system written in Go</div>
@@ -576,7 +576,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 10 Jan 2025, 21:06:22 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 10 Jan 2025, 22:05:17 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
