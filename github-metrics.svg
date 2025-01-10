@@ -367,7 +367,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>quexten/goldwarden</span>
-                                        <span>starred 19 hours ago</span>
+                                        <span>starred 20 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A feature-packed Bitwarden compatible desktop client</div>
@@ -420,7 +420,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Orange-OpenSource/hurl</span>
-                                        <span>starred 19 hours ago</span>
+                                        <span>starred 20 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Hurl, run and test HTTP requests with plain text.</div>
@@ -473,7 +473,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>AdnanHodzic/auto-cpufreq</span>
-                                        <span>starred 19 hours ago</span>
+                                        <span>starred 20 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Automatic CPU speed &amp; power optimizer for Linux</div>
@@ -576,7 +576,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 10 Jan 2025, 07:07:54 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 10 Jan 2025, 08:05:58 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
