@@ -367,7 +367,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>yairEO/tagify</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🔖 lightweight, efficient Tags input component in Vanilla JS / React / Angular / Vue</div>
@@ -420,7 +420,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>nucleuscloud/neosync</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Open source data anonymization and synthetic data orchestration for developers. Create high fidelity synthetic data and sync it across your environments.</div>
@@ -473,7 +473,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>OpenSignLabs/OpenSign</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🔥 The free &amp; Open Source DocuSign alternative</div>
@@ -526,7 +526,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>saltyshiomix/nextron</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">⚡ Next.js + Electron ⚡</div>
@@ -576,7 +576,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 11 Feb 2025, 15:06:03 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 11 Feb 2025, 16:06:11 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
