@@ -338,7 +338,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>element-plus/element-plus-nuxt</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Element Plus module for Nuxt</div>
@@ -444,7 +444,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>semaphoreio/semaphore</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Semaphore is an open source CI/CD platform. Self-host Semaphore on your own servers or on a cloud provider.</div>
@@ -547,7 +547,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 21 Mar 2025, 16:06:07 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 21 Mar 2025, 17:06:54 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
