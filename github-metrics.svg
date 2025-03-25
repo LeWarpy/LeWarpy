@@ -338,7 +338,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>svt/bridge</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An extensible client for controlling real time graphics</div>
@@ -444,7 +444,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>element-plus/element-plus-nuxt</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Element Plus module for Nuxt</div>
@@ -547,7 +547,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 25 Mar 2025, 15:06:23 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 25 Mar 2025, 16:06:18 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
