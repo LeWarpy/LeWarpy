@@ -338,7 +338,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Vencord/Vesktop</span>
-                                        <span>starred 16 hours ago</span>
+                                        <span>starred 17 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Vesktop is a custom Discord App aiming to give you better performance and improve linux support</div>
@@ -391,7 +391,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>SerenityEirlys/repo-game-online-fix-self-host</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">dll source, repo, online-fix, photonhost, r.e.p.o game</div>
@@ -438,7 +438,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>supabase/supavisor</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A cloud-native, multi-tenant Postgres connection pooler.</div>
@@ -491,7 +491,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>the-P1neapple/WinJS-Microsoft-Account-Bypass</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The WinJS-Microsoft-Account-Bypass repo offers a method to skip the Microsoft Account requirement during Windows 11 OOBE. By accessing the Developer Console, users can trigger a hidden local account setup screen. This offline technique works across all Windows 11 versions, including S-Mode, allowing local account creation.</div>
@@ -529,7 +529,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 3 Apr 2025, 08:08:23 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 3 Apr 2025, 09:06:28 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
