@@ -432,7 +432,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>SerenityEirlys/repo-game-online-fix-self-host</span>
-                                        <span>starred 6 days ago</span>
+                                        <span>starred 7 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">dll source, repo, online-fix, photonhost, r.e.p.o game</div>
@@ -479,7 +479,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>supabase/supavisor</span>
-                                        <span>starred 6 days ago</span>
+                                        <span>starred 7 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A cloud-native, multi-tenant Postgres connection pooler.</div>
@@ -529,7 +529,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 9 Apr 2025, 08:08:39 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 9 Apr 2025, 09:06:41 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
