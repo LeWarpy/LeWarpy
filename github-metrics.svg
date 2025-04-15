@@ -338,7 +338,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>schollz/croc</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -395,7 +395,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jstaf/onedriver</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A native Linux filesystem for Microsoft OneDrive</div>
@@ -448,7 +448,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>sladkoff/minecraft-prometheus-exporter</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A Bukkit plugin which exports minecraft server stats to Prometheus</div>
@@ -551,7 +551,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 15 Apr 2025, 19:05:59 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 15 Apr 2025, 20:07:10 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
