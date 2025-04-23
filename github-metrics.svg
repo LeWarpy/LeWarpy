@@ -338,7 +338,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>matro7sh/BypassAV</span>
-                                        <span>starred 16 hours ago</span>
+                                        <span>starred 17 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">This map lists the essential techniques to bypass anti-virus and EDR</div>
@@ -379,7 +379,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>awslabs/amazon-s3-tar-tool</span>
-                                        <span>starred 16 hours ago</span>
+                                        <span>starred 17 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A utility tool to create a tarball of existing objects in Amazon S3</div>
@@ -432,7 +432,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>kmdkuk/MCing</span>
-                                        <span>starred 17 hours ago</span>
+                                        <span>starred 18 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">MCing is a Kubernetes operator for Minecraft server.</div>
@@ -485,7 +485,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>miracle-box/hetu</span>
-                                        <span>starred 17 hours ago</span>
+                                        <span>starred 18 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Account system for Minecraft servers.</div>
@@ -529,7 +529,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 23 Apr 2025, 07:06:41 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 23 Apr 2025, 08:08:39 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
