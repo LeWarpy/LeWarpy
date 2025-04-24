@@ -444,7 +444,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>matro7sh/BypassAV</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">This map lists the essential techniques to bypass anti-virus and EDR</div>
@@ -485,7 +485,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>awslabs/amazon-s3-tar-tool</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A utility tool to create a tarball of existing objects in Amazon S3</div>
@@ -535,7 +535,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 24 Apr 2025, 15:13:55 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 24 Apr 2025, 16:05:38 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
