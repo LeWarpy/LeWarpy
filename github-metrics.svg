@@ -338,7 +338,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>exo-explore/exo</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚</div>
@@ -391,7 +391,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>sbstp/kubie</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A more powerful alternative to kubectx and kubens</div>
@@ -444,7 +444,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>cline/cline</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.</div>
@@ -497,7 +497,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jeffshee/hidamari</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Video wallpaper for Linux. Written in Python. 🐍</div>
@@ -547,7 +547,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 30 Apr 2025, 17:06:28 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 30 Apr 2025, 18:07:06 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
