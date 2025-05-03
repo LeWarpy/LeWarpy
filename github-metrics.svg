@@ -338,7 +338,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Godlander/objmc</span>
-                                        <span>starred 18 hours ago</span>
+                                        <span>starred 19 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A tool to bypass Minecraft Java Edition model limits by baking vertex data into texture.</div>
@@ -391,7 +391,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>civilblur/mazanoke</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A self-hosted local image optimizer that runs in your browser.</div>
@@ -547,7 +547,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 3 May 2025, 15:10:23 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 3 May 2025, 16:05:32 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
