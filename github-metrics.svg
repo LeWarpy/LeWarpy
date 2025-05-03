@@ -338,7 +338,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Godlander/objmc</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A tool to bypass Minecraft Java Edition model limits by baking vertex data into texture.</div>
@@ -444,7 +444,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>hashicorp/consul</span>
-                                        <span>starred 17 hours ago</span>
+                                        <span>starred 18 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.</div>
@@ -547,7 +547,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 3 May 2025, 04:33:06 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 3 May 2025, 05:20:50 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
