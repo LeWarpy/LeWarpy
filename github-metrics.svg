@@ -338,7 +338,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>liriliri/aya</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Android ADB desktop app</div>
@@ -391,7 +391,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>hanweg/mcp-discord</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">MCP server for discord bot</div>
@@ -444,7 +444,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>kubernetes/kubernetes</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Production-Grade Container Scheduling and Management</div>
@@ -497,7 +497,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>helm/helm</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The Kubernetes Package Manager</div>
@@ -547,7 +547,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 13 May 2025, 20:08:12 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 13 May 2025, 21:05:30 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
