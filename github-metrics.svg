@@ -339,7 +339,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>adonisjs/core</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">AdonisJS is a TypeScript-first web framework for building web apps and API servers. It comes with support for testing, modern tooling, an ecosystem of official packages, and more.</div>
@@ -392,7 +392,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>classroomio/classroomio</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The Open Source Education Platform. A Simple and Beautiful Alternative to Moodle LMS, EdX, Thinkific and Teachable</div>
@@ -445,7 +445,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>obeone/docker-nfs-server</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A lightweight, robust, flexible, and containerized NFS server.</div>
@@ -543,7 +543,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 24 May 2025, 14:09:14 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 24 May 2025, 15:11:46 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
