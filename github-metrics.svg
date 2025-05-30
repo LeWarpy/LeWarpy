@@ -339,7 +339,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>yuniko-software/minecraft-mcp-server</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A Minecraft MCP Server powered by Mineflayer API. It allows to control a Minecraft character in real-time, allowing AI assistants to build structures, explore the world, and interact with the game environment through natural language instruction</div>
@@ -392,7 +392,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>iandow/mediainfo_aws_lambda</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">AWS Lambda function for MediaInfo</div>
@@ -439,7 +439,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>roninoss/rn-primitives</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Style-agnostic, accessible React Native components for iOS, Android, and Web</div>
@@ -492,7 +492,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>bivashy/MC-Auth-with-Link</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Fork of mc-auth. Added multiple ways to link</div>
@@ -542,7 +542,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 30 May 2025, 05:24:41 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 30 May 2025, 06:08:42 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
