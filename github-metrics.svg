@@ -339,7 +339,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Mojang/bedrock-protocol-docs</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Documentation of the Bedrock network protocol. Protocol is subject to change release over release.</div>
@@ -392,7 +392,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>flannel-io/flannel</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">flannel is a network fabric for containers, designed for Kubernetes</div>
@@ -445,7 +445,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>getnf/getnf</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A better way to install Nerd Fonts</div>
@@ -498,7 +498,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Antiz96/arch-update</span>
-                                        <span>starred 15 hours ago</span>
+                                        <span>starred 16 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An update notifier &amp; applier for Arch Linux with a systray applet that assists you with important pre / post update tasks.</div>
@@ -548,7 +548,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 2 Jun 2025, 11:07:40 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 2 Jun 2025, 12:07:05 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
