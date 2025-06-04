@@ -339,7 +339,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ItzDerock/discord-markdown-parser</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A library to parse discord style markdown into an abstract syntax tree.</div>
@@ -498,7 +498,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>flannel-io/flannel</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">flannel is a network fabric for containers, designed for Kubernetes</div>
@@ -548,7 +548,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 4 Jun 2025, 22:05:56 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 4 Jun 2025, 23:05:25 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
