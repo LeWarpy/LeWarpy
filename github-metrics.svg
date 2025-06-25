@@ -314,10 +314,10 @@
                 <div class="row">
                     <section>
                         <div class="topics fill-width">
-                            <div class="label" title="">react</div>
-                            <div class="label" title="">nodejs</div>
-                            <div class="label" title="">php</div>
-                            <div class="label" title="">minecraft</div>
+                            <div class="label" title="React is an open source JavaScript library used for designing user interfaces.">react</div>
+                            <div class="label" title="Node.js is a tool for executing JavaScript in a variety of environments.">node.js</div>
+                            <div class="label" title="PHP is a popular general-purpose scripting language that works particularly well for server-side web development.">php</div>
+                            <div class="label" title="Minecraft is a sandbox video game.">minecraft</div>
                         </div>
                     </section>
                 </div>
@@ -548,7 +548,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 25 Jun 2025, 22:07:04 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 25 Jun 2025, 23:06:15 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
