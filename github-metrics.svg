@@ -339,7 +339,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>143mailliw/hummingbird</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Modern music player written in Rust using GPUI</div>
@@ -492,7 +492,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>haydenbleasel/kibo</span>
-                                        <span>starred 15 hours ago</span>
+                                        <span>starred 16 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A custom registry of composable, accessible and open source shadcn/ui components.</div>
@@ -542,7 +542,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 6 Aug 2025, 06:23:27 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 6 Aug 2025, 07:14:17 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
