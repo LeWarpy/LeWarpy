@@ -339,7 +339,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>CVMEventi/Countdown</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Simple timer for live events</div>
@@ -392,7 +392,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>supertokens/supertokens-core</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Open source alternative to Auth0 / Firebase Auth / AWS Cognito</div>
@@ -445,7 +445,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mitodl/ol-keycloak</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Custom theme and extensions for Keycloak SSO</div>
@@ -498,7 +498,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>DefGuard/defguard</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Zero-Trust access management with true WireGuard® 2FA/MFA</div>
@@ -548,7 +548,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 7 Aug 2025, 16:09:10 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 7 Aug 2025, 17:07:47 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
