@@ -339,7 +339,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Netflix/vmaf</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Perceptual video quality assessment based on multi-method fusion.</div>
@@ -392,7 +392,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>corazawaf/coraza</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">OWASP Coraza WAF is a golang modsecurity compatible web application firewall library</div>
@@ -445,7 +445,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>blacktop/ipsw</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">iOS/macOS Research Swiss Army Knife</div>
@@ -479,7 +479,7 @@
                                             <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                             <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                         </svg>
-                                        232
+                                        233
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -498,7 +498,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>seatedro/glyph</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">convert images, video to ascii!</div>
@@ -548,7 +548,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 20 Aug 2025, 21:05:14 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 20 Aug 2025, 22:07:14 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
