@@ -339,7 +339,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jbaubree/vite-plugin-pages-sitemap</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">vite-plugin-pages based sitemap generator</div>
@@ -392,7 +392,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>juspay/hyperswitch</span>
-                                        <span>starred 18 hours ago</span>
+                                        <span>starred 19 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An open source payments switch written in Rust to make payments fast, reliable and affordable</div>
@@ -445,7 +445,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>saber-nyan/kernel-modules-hook</span>
-                                        <span>starred 18 hours ago</span>
+                                        <span>starred 19 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Keeps your Arch Linux fully functional after a kernel upgrade</div>
@@ -498,7 +498,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Shmayro/dockerify-android</span>
-                                        <span>starred 18 hours ago</span>
+                                        <span>starred 19 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A Dockerized Android emulator supporting multiple CPU architectures (x86 and arm64) with native performance and seamless ADB &amp; Scrcpy Web access.</div>
@@ -548,7 +548,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 31 Aug 2025, 10:07:36 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 31 Aug 2025, 11:05:56 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
