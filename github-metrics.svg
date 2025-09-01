@@ -339,7 +339,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>wazuh/wazuh</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.</div>
@@ -392,7 +392,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Elytrium/LimboAuth</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Minecraft Auth System for Velocity proxy built in virtual server (Limbo). Built with LimboAPI.</div>
@@ -445,7 +445,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>rizinorg/cutter</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Free and Open Source Reverse Engineering Platform powered by rizin</div>
@@ -548,7 +548,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 1 Sept 2025, 17:06:17 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 1 Sept 2025, 18:07:05 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
