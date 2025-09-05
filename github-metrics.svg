@@ -339,7 +339,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>RickdeJager/stegseek</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -396,7 +396,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>stagewise-io/stagewise</span>
-                                        <span>starred 19 hours ago</span>
+                                        <span>starred 20 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">stagewise is the first frontend coding agent for existing production-grade web apps 🪄  -- Lives inside your browser 💻 -- Makes changes in local codebase 🤓 -- Compatible with all kinds of frameworks and setups 💪</div>
@@ -449,7 +449,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>apache/doris</span>
-                                        <span>starred 19 hours ago</span>
+                                        <span>starred 20 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Apache Doris is an easy-to-use, high performance and unified analytics database.</div>
@@ -502,7 +502,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>gristlabs/grist-core</span>
-                                        <span>starred 19 hours ago</span>
+                                        <span>starred 20 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Grist is the evolution of spreadsheets.</div>
@@ -552,7 +552,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 5 Sept 2025, 11:06:42 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 5 Sept 2025, 12:06:24 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
