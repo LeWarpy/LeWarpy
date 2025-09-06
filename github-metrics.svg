@@ -339,7 +339,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>muchobien/tailscale-ui</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Tailscale UI for Ubuntu</div>
@@ -386,7 +386,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>molnett/neon-operator</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Kubernetes operator for managing self-hosted Neon Postgres database clusters. This operator enables you to manage all necessary components of Neon's control plane on Kubernetes (in cloud and on-premises).</div>
@@ -439,7 +439,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>RickdeJager/stegseek</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -546,7 +546,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 6 Sept 2025, 08:07:18 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 6 Sept 2025, 09:05:38 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
