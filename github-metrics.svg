@@ -314,7 +314,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>LiterateInk/Notifier</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Notifies with a Discord Webhook whenever an app update is available, making sure we check potential breaking changes for librairies.</div>
@@ -361,7 +361,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>7c/fakefilter</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">reliable fake and temp email filter solution for site operators</div>
@@ -414,7 +414,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>authzed/spicedb</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Open Source, Google Zanzibar-inspired database for scalably storing and querying fine-grained authorization data</div>
@@ -467,7 +467,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>apernet/OpenGFW</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">OpenGFW is a flexible, easy-to-use, open source implementation of GFW (Great Firewall of China) on Linux</div>
@@ -517,7 +517,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 18 Sept 2025, 17:06:44 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 18 Sept 2025, 18:06:46 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
