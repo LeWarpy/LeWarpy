@@ -314,7 +314,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>xlmnxp/cli2rest</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A simple REST API server that converts CLI commands to HTTP endpoints.</div>
@@ -367,7 +367,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>resend/react-email</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">💌 Build and send emails using React</div>
@@ -420,7 +420,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>m1212e/prismabox</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">typebox schema generator for prisma</div>
@@ -473,7 +473,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>tkesgar/nuxt-elysia</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Mount Elysia app in Nuxt</div>
@@ -523,7 +523,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 22 Sept 2025, 18:07:00 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 22 Sept 2025, 19:05:49 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
