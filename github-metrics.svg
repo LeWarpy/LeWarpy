@@ -314,7 +314,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>react-native-menu/menu</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">UIMenu Component for React Native</div>
@@ -367,7 +367,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>applejag/kubectl-klock</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A kubectl plugin to render watch output in a more readable fashion</div>
@@ -473,7 +473,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>resend/react-email</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">💌 Build and send emails using React</div>
@@ -523,7 +523,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 25 Sept 2025, 08:09:58 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 25 Sept 2025, 09:07:07 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
