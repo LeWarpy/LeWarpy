@@ -314,7 +314,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>containers/bubblewrap</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Low-level unprivileged sandboxing tool used by Flatpak and similar projects</div>
@@ -420,7 +420,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>hub-burgan-com-tr/haproxy-openmanager</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -474,7 +474,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>PaperMC/Paper</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The most widely used, high performance Minecraft server that aims to fix gameplay and mechanics inconsistencies</div>
@@ -524,7 +524,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 27 Oct 2025, 19:08:45 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 27 Oct 2025, 20:05:16 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
