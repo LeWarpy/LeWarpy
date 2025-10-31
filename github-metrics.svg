@@ -314,7 +314,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>RostislavDugin/postgresus</span>
-                                        <span>starred 19 hours ago</span>
+                                        <span>starred 20 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">PostgreSQL monitoring and backups (with UI and self hosted)</div>
@@ -367,7 +367,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Tomkoooo/tstream</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A real-time wireless camera streaming platform built with Next.js, Socket.io, and WebRTC. Stream camera feeds from any device wirelessly to a central admin dashboard with full control and OBS integration.</div>
@@ -414,7 +414,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>thoser666/Vivid</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Android version of the open-source Moblin IRL streaming app. Vivid lets you broadcast high-quality live video to platforms like Twitch, YouTube, Facebook, Kick or your own SRT server, with advanced features like multi-network bonding, OBS WebSocket control, configurable overlays, and full I18n support.</div>
@@ -517,7 +517,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 31 Oct 2025, 06:07:09 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 31 Oct 2025, 07:09:21 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
