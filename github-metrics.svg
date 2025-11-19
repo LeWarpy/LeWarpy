@@ -314,7 +314,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>testssl/testssl.sh</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Testing TLS/SSL encryption anywhere on any port</div>
@@ -367,7 +367,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Keyfactor/ejbca-ce</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">EJBCA® – Open-source public key infrastructure (PKI) and certificate authority (CA) software.</div>
@@ -420,7 +420,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>YaLTeR/niri</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A scrollable-tiling Wayland compositor.</div>
@@ -523,7 +523,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 19 Nov 2025, 22:05:37 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 19 Nov 2025, 23:06:31 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
