@@ -314,7 +314,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>eyevinn-osaas/auto-subtitles</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Automatically generate subtitles from an input audio or video file using Open AI Whisper</div>
@@ -367,7 +367,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Eyevinn/test-adserver</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An adserver implementation for testing frameworks</div>
@@ -420,7 +420,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>eyevinn-osaas/s3-sync</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Sync files from one S3 bucket to another S3 bucket</div>
@@ -473,7 +473,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>eyevinn-osaas/srt-stream-generator</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -518,7 +518,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 12 Dec 2025, 17:07:11 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 12 Dec 2025, 18:06:50 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
