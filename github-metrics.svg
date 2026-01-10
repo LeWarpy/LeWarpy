@@ -314,7 +314,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>enaqx/awesome-react</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A collection of awesome things regarding React ecosystem</div>
@@ -355,7 +355,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>security-alliance/seal-911</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">SEAL 911 is a project designed to give users, developers, and security researchers an accessible way to connect with a small group of highly trusted security professionals in case of emergency.</div>
@@ -396,7 +396,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dstotijn/hetty</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An HTTP toolkit for security research.</div>
@@ -449,7 +449,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>awawa-dev/HyperHDR</span>
-                                        <span>starred 16 hours ago</span>
+                                        <span>starred 17 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Highly optimized open source ambient lighting implementation based on modern digital video and audio stream analysis for Windows, macOS and Linux (x86 and Raspberry Pi / ARM).</div>
@@ -499,7 +499,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 10 Jan 2026, 01:28:52 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 10 Jan 2026, 02:35:24 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
