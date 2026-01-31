@@ -314,7 +314,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>caido/caido</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🚀 Caido releases, wiki and roadmap</div>
@@ -361,7 +361,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>bytedance/sonic</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A blazingly fast JSON serializing &amp; deserializing library</div>
@@ -506,7 +506,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 31 Jan 2026, 09:09:09 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 31 Jan 2026, 10:09:44 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
