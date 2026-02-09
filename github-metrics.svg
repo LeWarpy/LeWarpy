@@ -314,7 +314,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ggouzi/HLS-SCTE35-monitoring</span>
-                                        <span>starred 19 hours ago</span>
+                                        <span>starred 20 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A python script to periodically check HLS renditions and parse SCTE35 ad markers in various supported formats</div>
@@ -367,7 +367,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>biigle/biigle</span>
-                                        <span>starred 19 hours ago</span>
+                                        <span>starred 20 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -423,7 +423,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>wajason/Nano_Cinema_AI_Video_Studio</span>
-                                        <span>starred 19 hours ago</span>
+                                        <span>starred 20 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🎬 Nano Cinema: An all-in-one local AI video production studio. Automatically orchestrates Llama-3 (Script), SDXL-Turbo (Visuals), EdgeTTS (Audio), and LTX-Video (Motion) into a seamless Python workflow. Create cinematic short films with no API fees, full privacy, and professional-grade editing logic included!!! 🚀</div>
@@ -476,7 +476,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Shreyas-weeb/OBS-SEI-Stamper</span>
-                                        <span>starred 19 hours ago</span>
+                                        <span>starred 20 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🎯 Enable frame-level video synchronization in OBS Studio with NTP timestamps for precise multi-stream video production and low-latency streaming.</div>
@@ -520,7 +520,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 9 Feb 2026, 11:27:15 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 9 Feb 2026, 12:20:43 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
