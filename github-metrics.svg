@@ -314,7 +314,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mscrnt/patreon-credits</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Generate scrolling end-credits videos featuring your Patreon supporters. 35 bundled fonts, CJK support, customizable styling, and an Adobe Premiere Pro plugin.</div>
@@ -367,7 +367,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dmf-mxl/mxl</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Dynamic Media Facility: Media Exchange Layer</div>
@@ -420,7 +420,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>cbcrc/guidance-for-building-ffmpeg-with-mxl</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">step-by-step instructions for building FFmpeg with Media eXchange Layer (MXL) support using the CBC/Radio-Canada fork.</div>
@@ -467,7 +467,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>chrisbenincasa/tunarr</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Create a classic TV experience using your own media - IPTV backed by Plex/Jellyfin/Emby/NFO</div>
@@ -517,7 +517,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 21 Feb 2026, 09:10:36 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 21 Feb 2026, 10:11:11 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
