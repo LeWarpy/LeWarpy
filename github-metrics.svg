@@ -314,7 +314,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>codenotary/immudb</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">immudb - immutable database based on zero trust, SQL/Key-Value/Document model, tamperproof, data change history</div>
@@ -367,7 +367,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>muxinc/media-chrome</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Custom elements (web components) for making audio and video player controls that look great in your website or app.</div>
@@ -523,7 +523,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 13 Mar 2026, 16:19:42 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 13 Mar 2026, 17:14:42 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
