@@ -314,7 +314,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>codenotary/immudb</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">immudb - immutable database based on zero trust, SQL/Key-Value/Document model, tamperproof, data change history</div>
@@ -367,7 +367,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>muxinc/media-chrome</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Custom elements (web components) for making audio and video player controls that look great in your website or app.</div>
@@ -420,7 +420,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>candlefinance/faster-image</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Fast image loading for React Native backed by performant native libraries.</div>
@@ -473,7 +473,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dream-horizon-org/react-native-fast-image</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🚩 FastImage, performant React Native image component.</div>
@@ -523,7 +523,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 13 Mar 2026, 01:35:31 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 13 Mar 2026, 02:37:55 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
