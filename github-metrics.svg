@@ -420,7 +420,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>abc3/hydra-srt</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">HydraSRT – An Open Source Alternative to Haivision SRT Gateway</div>
@@ -467,7 +467,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>harij85/MultiView_SRT_SRS</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A quick build of a 2x2 multiview with SRT ingest using Gstreamer - SRS</div>
@@ -511,7 +511,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 16 Mar 2026, 23:13:47 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 17 Mar 2026, 00:11:21 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
