@@ -314,7 +314,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ezwebtools/flowpick</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A powerful, all-in-one media resource sniffer and downloader extension. Automatically detect and bulk download videos (M3U8/HLS to MP4), audio, and images from any webpage. Privacy-focused with local conversion.</div>
@@ -367,7 +367,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>clitic/vsd</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A command-line utility and library for downloading streams from DASH .mpd manifests and HLS .m3u8 playlists.</div>
@@ -420,7 +420,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>azot-labs/dasha</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Streaming manifest parser</div>
@@ -473,7 +473,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>aayushkdev/rendition</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Distributed video transcoding system with FastAPI, PostgreSQL, RabbitMQ, and S3-compatible storage. Supports presigned uploads, worker-based ffmpeg HLS encoding, outbox-backed job   publishing, source-aware renditions, and local MinIO or production S3/R2 deployments.</div>
@@ -523,7 +523,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 6 Jun 2026, 12:42:30 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 6 Jun 2026, 13:34:34 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
