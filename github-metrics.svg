@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            1379 Commits
+                            1380 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -314,7 +314,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>TwiN/gatus</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Automated developer-oriented status page with alerting and incident support</div>
@@ -367,7 +367,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Diolinux/PhotoGIMP</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A Patch for GIMP 3+ for Photoshop Users</div>
@@ -420,7 +420,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ezwebtools/flowpick</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A powerful, all-in-one media resource sniffer and downloader extension. Automatically detect and bulk download videos (M3U8/HLS to MP4), audio, and images from any webpage. Privacy-focused with local conversion.</div>
@@ -473,7 +473,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>clitic/vsd</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A command-line utility and library for downloading streams from DASH .mpd manifests and HLS .m3u8 playlists.</div>
@@ -523,7 +523,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 9 Jun 2026, 22:45:52 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 9 Jun 2026, 23:37:55 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
