@@ -314,7 +314,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>DimazzzZ/media-gen</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A fast, cross-platform command-line utility for generating test media files (video &amp; audio) with customizable parameters.</div>
@@ -367,7 +367,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ottstreamscore/ottstreamscore</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">OTT Stream Score continuously monitors your IPTV streams, tracks reliability and quality metrics, and helps you identify the best feed for each channel from your M3U playlist.</div>
@@ -420,7 +420,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>winters27/StreamNook</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">StreamNook is a native Twitch desktop application for Windows. Watch streams without lag (or ads), farm drops automatically, and save RAM.</div>
@@ -467,7 +467,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jonathaneoliver/infinite-streaming</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Docker-based HLS/DASH live-like media server for testing video players under deterministic failure conditions. Includes per-session failure injection, traffic shaping, and ABR characterization.</div>
@@ -517,7 +517,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 18 Jun 2026, 11:36:49 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 18 Jun 2026, 13:27:46 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
