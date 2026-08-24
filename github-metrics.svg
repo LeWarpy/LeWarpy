@@ -314,7 +314,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ValveSoftware/GameNetworkingSockets</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Reliable &amp; unreliable messages over UDP.  Robust message fragmentation &amp; reassembly.  P2P networking / NAT traversal.  Encryption.</div>
@@ -367,7 +367,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>iMoeAriaCG/Windows-Key-Collection</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -409,7 +409,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>DietrichGebert/ponytail</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.</div>
@@ -462,7 +462,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ALH477/Oligarchy</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Oligarchy is a reproducible NixOS computing platform developed as a daily-driver operating system by its author ALH477, evolving from a personal experiment while learning Nix into an integrated environment for real-time audio, development, gaming, virtualization, local AI, and experimental distributed systems.</div>
@@ -512,7 +512,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 24 Aug 2026, 22:32:20 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 24 Aug 2026, 23:31:37 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
